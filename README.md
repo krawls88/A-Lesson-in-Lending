@@ -9,3 +9,5 @@ Data_Cleaning.ipnyb
 
 Early_Data_Analysis.ipnyb
 
+Regression_Notebook.ipynb
+
