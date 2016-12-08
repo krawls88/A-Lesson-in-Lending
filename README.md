@@ -14,7 +14,7 @@ Data_Cleaning.ipnyb
  
 
 Early_Data_Analysis.ipnyb
-  - I beging to start analyzing trends and possible causal relationships between groups of data
+  - I start analyzing trends and possible causal relationships between groups of data
   - Provide visualizations to better construct a clearer picture of where the data leads 
   
 Regression_Notebook.ipynb
